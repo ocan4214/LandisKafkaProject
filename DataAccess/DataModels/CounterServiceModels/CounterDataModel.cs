@@ -21,7 +21,5 @@ namespace DataAccess.DataModels
 
         [MaxLength(25)]
         public string? ReaderName { get; set; }
-
-
     }
 }
