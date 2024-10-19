@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccess.DataModels.CounterServiceModels
+namespace DataAccess.DataModels
 {
     public class CounterDataModel
     {

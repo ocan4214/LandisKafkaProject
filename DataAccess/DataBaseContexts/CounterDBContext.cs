@@ -1,4 +1,4 @@
-﻿using DataAccess.DataModels.CounterServiceModels;
+﻿using DataAccess.DataModels;
 using Microsoft.EntityFrameworkCore;
 
 namespace DataAccess.DataBaseContexts
