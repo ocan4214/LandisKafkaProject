@@ -1,0 +1,6 @@
+@LandisGYRTask_HostAddress = http://localhost:5287
+
+GET {{LandisGYRTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
